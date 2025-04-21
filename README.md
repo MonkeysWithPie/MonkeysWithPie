@@ -1,5 +1,5 @@
 > "I do a lot of things but being smart isn't one of them"
->  - me, some time 2023 i think
+>  - me, some time in 2023 i think
 
 Hi, I make things sometimes, here's some notable stuff:
 - Discord bot enthusiast
@@ -8,6 +8,7 @@ Hi, I make things sometimes, here's some notable stuff:
   - PersonalRoles creator (closed source)
   - TetriStats cofounder (private)
   - NAiO creator (private)
+  - [pingcremental](https://github.com/monkeyswithpie/pingcremental/) owner
 - Soon-to-be game developer
   - got an idea for a tetris-like
   - hopefully that goes well
